@@ -1,0 +1,8 @@
+okta-iam-terraform-baseline/
+├── main.tf
+├── variables.tf
+├── outputs.tf
+├── terraform.tfvars.example
+└── .github/
+    └── workflows/
+        └── terraform-ci.yml
